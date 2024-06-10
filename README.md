@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @M3147
 - 👀 I’m interested in programming, basketball, theater an drums
 - 🌱 I’m currently learning Java, Python, HTML and Arduino
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ? On discord at @au_maximum for sure
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Nothing (not the Depeche Mode's song)
